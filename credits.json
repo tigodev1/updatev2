@@ -1,0 +1,12 @@
+{
+  "contributors": [
+    {
+      "userId": 193520242,
+      "description": "Lead developer and architect of this Roblox Friend Viewer application. Responsible for the complete system design, full-stack development, API integration, and user experience optimization. Built the entire application from concept to deployment using React, TypeScript, Node.js, and Roblox APIs."
+    },
+    {
+      "userId": 907223712,
+      "description": "Is a big noob and helped with the design of the application."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "adminIPs": ["81.100.85.204"],
+  "bannedIPs": [],
+  "settings": {
+    "enableAnalytics": true,
+    "enableUserTracking": true,
+    "maxSessionsPerIP": 10,
+    "sessionTimeout": 3600000,
+    "enableIPBanning": true,
+    "logLevel": "info"
+  }
+}
